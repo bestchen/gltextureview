@@ -1,4 +1,4 @@
-# gltextureview
+# GLTextureView
 
 项目抽取自 [android-openGL-canvas](https://github.com/ChillingVan/android-openGL-canvas)
 
